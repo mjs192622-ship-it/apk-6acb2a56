@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "815467161304",
+        "project_id": "h-system-ict",
+        "storage_bucket": "h-system-ict.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:815467161304:android:795545ee7faddb71e019ad",
+                "android_client_info": {
+                    "package_name": "com.hsystem.app"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyAOMip_26105W5LADTiIZNE5OtD3KlCYfg"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
